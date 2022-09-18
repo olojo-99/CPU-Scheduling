@@ -22,13 +22,3 @@ def sjf(processes):
 
 
 schedule(sjf(processes)) # pass the list of processes to the scheduler using algorithm
-
-
-# [1] linuxhint.com. How to sort with lambda in Python [Online]. Available: https://linuxhint.com/sort-lambda-python/
-
-
-'''
-I certify that this assignment is my own work carried out in a manner pursuant to the DCU Academic Integrity Policy,
-based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation.
-Benjamin Olojo - 19500599
-'''
