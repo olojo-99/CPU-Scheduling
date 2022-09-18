@@ -45,8 +45,3 @@ def file_error(args):
 # [1] linuxize.com. How to Check if a File or Directory Exists in Python [Online]. Available: https://linuxize.com/post/python-check-if-file-exists/
 
 
-'''
-I certify that this assignment is my own work carried out in a manner pursuant to the DCU Academic Integrity Policy,
-based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation.
-Benjamin Olojo - 19500599
-'''
