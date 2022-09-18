@@ -40,8 +40,3 @@ def file_error(args):
 
     elif not(os.path.isfile(args[1])): # [1]
         exit("-> File provided does not exist")
-
-
-# [1] linuxize.com. How to Check if a File or Directory Exists in Python [Online]. Available: https://linuxize.com/post/python-check-if-file-exists/
-
-
